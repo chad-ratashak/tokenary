@@ -1,0 +1,17 @@
+# Machine-specific files that should never be committed
+.claude/settings.local*
+.claude/launch.json
+*.command
+.port
+.env
+.env.*
+CLAUDE.local.md
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS and iCloud conflict copies
+.DS_Store
+* 2.*
