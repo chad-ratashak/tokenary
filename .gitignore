@@ -7,6 +7,27 @@
 .env.*
 CLAUDE.local.md
 
+# Private planning notes: to-do lists, roadmaps, backlogs, reviews.
+# Keep them local; they do not belong in the public repo.
+TODO*
+todo*
+ROADMAP*
+roadmap*
+BACKLOG*
+backlog*
+REVIEW*
+review*
+PLAN.md
+PLANNING.md
+plan.md
+planning.md
+NOTES.md
+notes.md
+IDEAS.md
+ideas.md
+WISHLIST.md
+wishlist.md
+
 # Python
 __pycache__/
 *.pyc
